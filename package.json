@@ -1,6 +1,6 @@
 {
   "name": "is-forwardslash",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Checks given value is forwardslash - support char code number, hex, unicode or string value to be given.",
   "repository": "tunnckoCore/is-forwardslash",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
